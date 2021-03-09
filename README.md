@@ -16,4 +16,4 @@
 * https://www.eevblog.com/forum/projects/class-d-amplifier-with-i2s-tas5086-pwm-modulato
 * http://www.cs.tut.fi/sgn/arg/rosti/1-bit/
 * http://www.ele.utoronto.ca/power_management/jp13.pdf
-* 
+* https://www.eetimes.com/understanding-output-filters-for-class-d-amplifiers/
