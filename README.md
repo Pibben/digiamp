@@ -13,3 +13,4 @@
 * https://www.ti.com/product/TAS5548
 * https://www2.ulpgc.es/hege/almacen/download/41/41041/01471374.pdf
 * https://www.eevblog.com/forum/projects/class-d-amplifier-with-i2s-tas5086-pwm-modulato
+* http://www.cs.tut.fi/sgn/arg/rosti/1-bit/
