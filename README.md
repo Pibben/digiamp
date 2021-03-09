@@ -17,3 +17,4 @@
 * http://www.cs.tut.fi/sgn/arg/rosti/1-bit/
 * http://www.ele.utoronto.ca/power_management/jp13.pdf
 * https://www.eetimes.com/understanding-output-filters-for-class-d-amplifiers/
+* https://dsp.stackexchange.com/questions/11471/how-would-sigma-delta-modulation-work-in-software
